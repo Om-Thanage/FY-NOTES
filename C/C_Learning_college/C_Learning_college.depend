@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1706983186 source:d:\desktop\c\c_learning_college\main.c
+
+1706983116 source:d:\desktop\c\c_learning_college\pbq31.c
+	<stdio.h>
+
+1707665767 source:d:\desktop\c\c_learning_college\exp 4 q1.c
+
+1707666296 source:d:\desktop\c\c_learning_college\exp 4 q2.c
+	<stdio.h>
+
+1707666543 source:d:\desktop\c\c_learning_college\exp 4.c
+	<stdio.h>
+
+1710224322 source:d:\desktop\c\c_learning_college\exp 6.c
+
+1710190756 source:d:\desktop\c\c_learning_college\exp 5.c
+	<string.h>
+	<string.h>
+	<ctype.h>
+
+1712037035 source:d:\desktop\c\c_learning_college\exp 7.c
+	<string.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+
+1713550560 source:d:\desktop\c\c_learning_college\arraypointer.c
+
+1713591323 source:d:\desktop\c\c_learning_college\exp 8.c
+	<stdlib.h>
+	<stdio.h>
+
